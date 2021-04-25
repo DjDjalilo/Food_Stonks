@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Food Stonks</string>
+    <string name="facebook_application_id" translatable="false"> 463133028337232</string>
+    <string name="bienvenue">BIENVENUE</string>
+    <string name="minimum_pwd">Mot de passe trop court, entrer un minimum de 6 caracteres !</string>
+    <string name="auth_failed">L\'authentification a échoué, verifier votre Email ou votre Mot de passe ou bien inscrivez-vous</string>
+    <string name="title_activity_post__register">Post_Register</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="regimes">
+        <item>Selectionner votre regime :</item>
+        <item>Ketogenic</item>
+        <item>Vegetarian</item>
+        <item>Lacto-Vegetarian</item>
+        <item>Ovo-Vegetarian</item>
+        <item>Vegan</item>
+        <item>Pescetarian</item>
+        <item>Paleo</item>
+        <item>Primal</item>
+        <item>Whole30</item>
+    </string-array>
+    <string-array name="into_list">
+        <item>Produits laitiers</item>
+        <item>Oeufs</item>
+        <item>Glutens</item>
+        <item>Graines</item>
+        <item>Cacahuètes</item>
+        <item>Fruits de mer</item>
+        <item>Sésames</item>
+        <item>Crustacés</item>
+        <item>Soja</item>
+        <item>Sel</item>
+        <item>Noisetes</item>
+        <item>Blé</item>
+    </string-array>
+    <string name="select_into">Selectionner vos intolerences :</string>
+    <string name="ah">Selectionner vos intolerences :</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Annuler</string>
+    <string name="clear_all_label">Retirer tout</string>
+</resources>

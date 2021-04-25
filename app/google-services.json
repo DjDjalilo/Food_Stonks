@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324457473892",
+    "project_id": "food-stonks-b1469",
+    "storage_bucket": "food-stonks-b1469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324457473892:android:bfa237d8e0c19667edbc71",
+        "android_client_info": {
+          "package_name": "com.example.foodstonks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324457473892-cb53evepta8jbqi2r6kq3k8pu0mig6ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodstonks",
+            "certificate_hash": "4df508d33803dbb729e34181f807147425572ff2"
+          }
+        },
+        {
+          "client_id": "324457473892-36ss3sudjcbdh4a6cb30ug0vpce0jff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqc-VkbItuqIkpROX4EwZ_HxnhQTFf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324457473892-36ss3sudjcbdh4a6cb30ug0vpce0jff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
